@@ -1,2 +1,5 @@
-# pirl-git-intro-2026-01-github
-An introduction to git for members of the various PIRL/LPL/UA teams, Jan 2026 edition
+# PIRL Git Intro 2026 01 PIRL
+
+This is a very simple project with a very simple Python application. It is
+being used for an introduction to git at the Lunar and Planetary Laboratory's
+Planetary Image Research Lab at the University of Arizona.
